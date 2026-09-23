@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saint-guy-dona.netlify.app/sitemap.xml
